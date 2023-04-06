@@ -10,19 +10,7 @@ function App() {
         <a href=''>Register</a>
       </nav>
     </header>
-        <div className='post'>
-          <div className='image'>
-          <img src='https://images.pexels.com/photos/821718/pexels-photo-821718.jpeg?auto=compress&cs=tinysrgb&w=500&h=500&dpr=1'/>
-          </div>
-          <div className='texts'>
-          <h2>The Future of AI in Education</h2>
-          <p className='info'>
-            <a className='author'>John Doe</a>
-            <time>April 6, 2023 9:00 AM</time>
-          </p>
-          <p className='summary'>AI has the potential to revolutionize education, from personalized learning to automating administrative tasks. With the development of machine learning algorithms, AI can help teachers assess student performance and provide customized feedback. Additionally, AI chatbots can assist with student queries, freeing up teachers to focus on more complex tasks. The future of education will likely involve a close collaboration between AI and teachers, resulting in a more efficient and effective learning experience for all.</p>
-          </div>
-        </div>
+
         <div className='post'>
           <div className='image'>
           <img src='https://images.pexels.com/photos/1784919/pexels-photo-1784919.jpeg?auto=compress&cs=tinysrgb&w=500&h=500&dpr=1'/>
